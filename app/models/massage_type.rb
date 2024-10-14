@@ -1,0 +1,2 @@
+class MassageType < ApplicationRecord
+end

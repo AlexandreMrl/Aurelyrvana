@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  massage_type: one
+  start_time: 2024-10-14 16:41:45
+  end_time: 2024-10-14 16:41:45
+  status: MyString
+
+two:
+  user: two
+  massage_type: two
+  start_time: 2024-10-14 16:41:45
+  end_time: 2024-10-14 16:41:45
+  status: MyString
